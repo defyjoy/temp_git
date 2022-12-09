@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
           Test 1
+          Test 2
         </a>
       </header>
     </div>
